@@ -1,3 +1,3 @@
 # RepMaster
 Test
-Her er en test af file dit (Fink)
+Her er en test af file edit (Fink)
