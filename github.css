@@ -1,3 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 
+body{
+	color: #433131;
+}
+
+wrapper {
+	margin: 500px;
+}
+
+h1{
+	font-size: 30px;
+	color: aliceblue;
+}
