@@ -2,7 +2,9 @@
 /* CSS Document */
 
 body{
-	color: #433131;
+	background-color: #372C2D;
+	max-width: 1920px;
+	max-height: 1080px;
 }
 
 wrapper {
@@ -12,4 +14,5 @@ wrapper {
 h1{
 	font-size: 30px;
 	color: aliceblue;
+	margin: 300px;
 }
